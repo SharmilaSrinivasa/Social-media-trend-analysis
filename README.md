@@ -13,7 +13,10 @@ The case study for this data research pipeline will use Twitter data to model pe
 Tools:  
 EDA: Juptyer, Scikit-learn, Gensim, python-louvain, natural language tool kit.       
 Data pipeline: MongoDB.       
-Models: Latent Dirichlet Allocation, Louvain modeling method.       
+Models: Latent Dirichlet Allocation, Louvain modeling method.        
+                                           
+                                           
+Please view complete work in https://git.txstate.edu/DataLab/twitterAnalysis/tree/master/docs/2019BobbySharmila
 
 
 
