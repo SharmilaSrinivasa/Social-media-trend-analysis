@@ -16,7 +16,7 @@ Data pipeline: MongoDB.
 Models: Latent Dirichlet Allocation, Louvain modeling method.        
                                            
                                            
-Please view complete work in https://git.txstate.edu/DataLab/twitterAnalysis/tree/master/docs/2019BobbySharmila
+Please view complete work in https://datalab12.github.io/work/twitter-analysis.html
 
 
 
